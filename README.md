@@ -1,6 +1,6 @@
 ## Hello, Friend 🤖
 
-### - 🔭 *I’m currently working as a DevOps Engineer at Stone Banking!*
+### - 🔭 *I’m currently working as a SRE Engineer at Stone Co!*
 
 <div align="center">
   <a href="https://github.com/sandesvitor">
